@@ -9,4 +9,4 @@ venv/
 *.xml
 *.pyc
 __pycache__/
-.env
+*.env

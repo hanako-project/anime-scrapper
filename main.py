@@ -1,9 +1,9 @@
 import json
 
-from file_parser import get_data_array, get_link
-from fetcher import fetch_content, source_checker
-from content_parser import parse_content
-from merger import merge_data
+from helper.file_parser import get_data_array, get_link
+from helper.fetcher import fetch_content, source_checker
+from helper.content_parser import parse_content
+from helper.merger import merge_data
 
 
 def main():
