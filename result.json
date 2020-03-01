@@ -1,0 +1,81 @@
+[
+    {
+        "sources": [
+            "https://anidb.net/anime/10143",
+            "https://anilist.co/anime/102416",
+            "https://kitsu.io/anime/8925",
+            "https://myanimelist.net/anime/20707",
+            "https://notify.moe/anime/Ff1bpKmmR"
+        ],
+        "title": "\"0\"",
+        "type": "Special",
+        "episodes": 1,
+        "status": "FINISHED",
+        "picture": "https://cdn.myanimelist.net/images/anime/6/54815.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/54815t.jpg",
+        "synonyms": [
+            "Chiaki Kuriyama: \u300c0\u300d",
+            "\u300c0\u300d"
+        ],
+        "relations": [],
+        "score": "4.81",
+        "synopsis": "This music video tells how a shy girl with a secret love and curiosity about what surrounds her works."
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/3689",
+            "https://kitsu.io/anime/9179",
+            "https://myanimelist.net/anime/25627",
+            "https://notify.moe/anime/eM1-pKmiR"
+        ],
+        "title": "\"Aesop\" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "FINISHED",
+        "picture": "https://cdn.myanimelist.net/images/anime/3/65151.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/3/65151t.jpg",
+        "synonyms": [
+            "\"\u3044\u305d\u3063\u3077\"\u306e\u304a\u306f\u306a\u3057\u3088\u308a \u725b\u3068\u304b\u3048\u308b",
+            "\"\u3044\u305d\u3063\u3077\"\u306e\u304a\u306f\u306a\u3057\u3088\u308a \u725b\u3068\u304b\u3048\u308b, \u3088\u304f\u3070\u3063\u305f\u72ac",
+            "From Aesop's Tales: The Bull and the Frog / The Greedy Dog"
+        ],
+        "relations": [],
+        "score": "N/A",
+        "synopsis": "Based on Aesop's Fables."
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/7294",
+            "https://anilist.co/anime/7669",
+            "https://kitsu.io/anime/5078",
+            "https://myanimelist.net/anime/7669",
+            "https://notify.moe/anime/oTdkpKiig"
+        ],
+        "title": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+        "type": "OVA",
+        "episodes": 1,
+        "status": "FINISHED",
+        "picture": "https://cdn.myanimelist.net/images/anime/2/79900.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79900t.jpg",
+        "synonyms": [
+            "\"\u6587\u5b66\u5c11\u5973\"\u4eca\u65e5\u306e\u304a\u3084\u3064 ~\u306f\u3064\u604b~",
+            "Book Girl OVA",
+            "Bungaku Shoujo OVA",
+            "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi",
+            "Literature Girl",
+            "Literature Girl OVA",
+            "\u201c\u6587\u5b66\u5c11\u5973\u201d\u4eca\u65e5\u306e\u304a\u3084\u3064 \u301c\u306f\u3064\u604b\u301c",
+            "\u6587\u5b66\u5c11\u5973 \u4eca\u65e5\u306e\u304a\u3084\u3064 \u301c\u306f\u3064\u604b\u301c"
+        ],
+        "relations": [
+            "https://anidb.net/anime/6959",
+            "https://anidb.net/anime/7441",
+            "https://anilist.co/anime/6408",
+            "https://kitsu.io/anime/4550",
+            "https://myanimelist.net/anime/6408",
+            "https://notify.moe/anime/UUie5KimR"
+        ],
+        "score": "6.95",
+        "synopsis": "Short episode bundled with the limited edition release of\"Bungaku Shoujo\" Minarai no, Shoushin."
+    }
+]
