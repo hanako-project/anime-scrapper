@@ -7,6 +7,6 @@
 venv/
 .idea/
 *.xml
-.pyc
+*.pyc
 __pycache__/
 .env
