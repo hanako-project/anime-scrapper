@@ -1,5 +1,5 @@
 # anime-scapper
-Forked from [manami-project/manami](https://github.com/manami-project/manami).
+Forked from [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database).
 
 This is the \*perhaps\* the improved version from the original. 
 I added some field that I think it needed in the database. 
